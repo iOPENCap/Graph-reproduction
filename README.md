@@ -6,5 +6,6 @@
 |<br/>> Changes to Captions: An Attentive Network for Remote Sensing Change Captioning | <div align="center"><img src="https://github.com/iOPENCap/Graph-reproduction/assets/121782993/e05ee36c-3291-4c08-aae0-e9d992935022" width="500">
 |<br/>> Attention Is All You Need | <div align="center"><img src="https://github.com/iOPENCap/Graph-reproduction/assets/121782993/baea6c14-3dc9-40b6-8626-91c71c3aff6f" width="500">
 |<br/>> Image Captioning with Deep Bidirectional LSTMs | <div align="center"><img src="https://github.com/iOPENCap/Graph-reproduction/assets/121782993/bb30fa47-fc1c-4490-a7f8-05f9454ba708" width="500">
+|<br/>> EVCap: Retrieval-Augmented Image Captioning with External Visual-Name Memory for Open-World Comprehension | <div align="center"><img src="https://github.com/iOPENCap/Graph-reproduction/assets/149236295/cae79037-407b-406b-b82d-aad9c1c52443" width="500">
 
 
