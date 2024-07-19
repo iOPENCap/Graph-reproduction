@@ -2,7 +2,8 @@
 ### 组会图复现ppt
 | Paper info | Key elements |
 |---|---|
-|<br/>> Learning Independent Instance Maps for Crowd Localization（IIM）  <div align="center"><img src="https://github.com/iOPENCap/Graph-reproduction/assets/121782993/40612ad4-1006-412d-95d2-51098a45901e" width="500">| <br/>> Rounded line arrow(圆角折线箭头)
+|<br/>> Learning Independent Instance Maps for Crowd Localization（IIM）  <div align="center"><img src="https://github.com/iOPENCap/Graph-reproduction/assets/121782993/40612ad4-1006-412d-95d2-51098a45901e" width="500">| <br/>> Rounded line arrow(圆角折线箭头)  <div align="center"><img scr="https://github.com/user-attachments/assets/a1a4be7f-7f52-481f-a61f-f7670c92aead" width="500">
+
 |<br/>> Changes to Captions: An Attentive Network for Remote Sensing Change Captioning | <div align="center"><img src="https://github.com/iOPENCap/Graph-reproduction/assets/121782993/e05ee36c-3291-4c08-aae0-e9d992935022" width="500">
 |<br/>> Attention Is All You Need | <div align="center"><img src="https://github.com/iOPENCap/Graph-reproduction/assets/121782993/baea6c14-3dc9-40b6-8626-91c71c3aff6f" width="500">
 |<br/>> Image Captioning with Deep Bidirectional LSTMs | <div align="center"><img src="https://github.com/iOPENCap/Graph-reproduction/assets/121782993/bb30fa47-fc1c-4490-a7f8-05f9454ba708" width="500">
