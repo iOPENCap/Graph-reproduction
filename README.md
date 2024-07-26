@@ -8,4 +8,6 @@
 |<br/>> Image Captioning with Deep Bidirectional LSTMs <div align="center"><img src="https://github.com/iOPENCap/Graph-reproduction/assets/121782993/bb30fa47-fc1c-4490-a7f8-05f9454ba708" width="400" > |
 |<br/>> EVCAP Retrieval-Augmented Image Captioning with External Visual-Name Memory for Open-World Comprehension <div align="center"><img src="https://github.com/iOPENCap/Graph-reproduction/assets/149236295/cae79037-407b-406b-b82d-aad9c1c52443" width="400" >| <br/>> [Vector icon（矢量图标）](https://jingyan.baidu.com/article/647f01158cced43e2148a8ea.html) <div align="center"><img src="https://github.com/user-attachments/assets/aa47abb6-8b47-4cb7-aa55-5121a6d8d29e" width="200">
 |<br/>> Few-shot Oriented Object Detection with Memorable Contrastive Learning in Remote Sensing Images <div align="center"><img src="https://github.com/iOPENCap/Graph-reproduction/assets/149236295/22698176-8881-42ba-9d33-530f48564841" width="400" > |   <br/>> [Thin rectangle（薄长方体）](https://blog.csdn.net/weixin_38314865/article/details/104440652)  <div align="center"><img src="https://github.com/user-attachments/assets/7488c24d-da1d-4e86-a526-bc1636d09e59" width="200">
+|<br/>> Transferable Decoding with Visual Entities for Zero-Shot Image Captioning  <div align="center"><img src="https://github.com/user-attachments/assets/575f1600-5233-48a4-b8a5-7e57bce4a8b4" width="400" > |   
+
 
