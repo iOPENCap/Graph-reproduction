@@ -1,4 +1,4 @@
-# Graph-reproduction
+![image](https://github.com/user-attachments/assets/a4f3c675-b5c4-485f-a459-1f94624f310a)# Graph-reproduction
 ### 组会图复现ppt
 | Paper info | Key elements |
 |---|---|
@@ -12,4 +12,5 @@
 |<br/>>UP-Diff Latent Diffusion Model for Remote Sensing Urban Prediction <div align="center"><img src="https://github.com/user-attachments/assets/a145493f-802c-4227-9a9f-41070c5d5675" width="400" > |   <br/>> Judge the arrow is straight or not（判断箭头笔直与否）  <div align="center"><img src="https://github.com/user-attachments/assets/86c4eda2-4791-4eaf-a013-a00295daa75c" width="200">
 |<br/>>GCD-DDPM: A Generative Change Detection Model Based on Difference-Feature-Guided DDPM <div align="center"><img src="https://github.com/user-attachments/assets/c4861dee-7b8e-411c-9a42-190e31d23f8f" width="400" > |   [<br/>> Any shape polygon（任意形状多边形）](https://jingyan.baidu.com/article/c45ad29c658fe8051753e285.html)  <div align="center"><img src="https://github.com/user-attachments/assets/042e8d0c-d8dd-4c7e-b0e5-6eacbd6dc683" width="200">
 |<br/>>GCD-DDPM: Language-only Efficient Training of Zero-shot Composed Image Retrieval <div align="center"><img src="https://github.com/user-attachments/assets/e21a9b98-5277-4fa9-abb0-a8061dee3901" width="400" > | 
-|<br/>>Test-Time Low Rank Adaptation via Confidence Maximization for Zero-Shot Generalization of Vision-Language Models <div align="center"><img src="https://github.com/user-attachments/assets/b3e07691-a540-44ef-b8e2-c5840213a2ce" width="400" > |   [<br/>> Half curved rectangle（半曲线矩形）] <div align="center"><img src="https://github.com/user-attachments/assets/00b4b648-1e75-4f27-ab84-9fab685d3363" width="200">
+|<br/>>Test-Time Low Rank Adaptation via Confidence Maximization for Zero-Shot Generalization of Vision-Language Models <div align="center"><img src="https://github.com/user-attachments/assets/b3e07691-a540-44ef-b8e2-c5840213a2ce" width="400" > |   <br/>> Half curved rectangle（半曲线矩形） <div align="center"><img src="https://github.com/user-attachments/assets/00b4b648-1e75-4f27-ab84-9fab685d3363" width="200">
+|<br/>>From Association to Generation: Text-only Captioning by Unsupervised Cross-modal Mapping <div align="center"><img src="https://github.com/user-attachments/assets/3b1304f3-eb5c-4e8b-bba3-b215524dec9f" width="400" >  |   [<br/>> Merge shapes（合并形状）](https://zhuanlan.zhihu.com/p/115158519)   <div align="center"><img src="https://github.com/user-attachments/assets/ccc298ac-0b77-446a-9b95-deefef0bb36b" width="200">
