@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a4f3c675-b5c4-485f-a459-1f94624f310a)# Graph-reproduction
+![image](https://github.com/user-attachments/assets/a05fd442-4c12-4f20-9be7-96ecd42e9e7d)![image](https://github.com/user-attachments/assets/73f110d6-a5a2-4f53-891b-410b23d18ae7)![image](https://github.com/user-attachments/assets/a4f3c675-b5c4-485f-a459-1f94624f310a)# Graph-reproduction
 ### 组会图复现ppt
 | Paper info | Key elements |
 |---|---|
@@ -16,3 +16,7 @@
 |<br/>>From Association to Generation: Text-only Captioning by Unsupervised Cross-modal Mapping <div align="center"><img src="https://github.com/user-attachments/assets/3b1304f3-eb5c-4e8b-bba3-b215524dec9f" width="400" >  |   [<br/>> Merge shapes（合并形状）](https://zhuanlan.zhihu.com/p/115158519)   <div align="center"><img src="https://github.com/user-attachments/assets/ccc298ac-0b77-446a-9b95-deefef0bb36b" width="200">
 |<br/>>KIND: Knowledge Integration and Diversion in Diffusion Models <div align="center"><img src="https://github.com/user-attachments/assets/31d7d1d6-d0f9-4078-9aa1-5fd5d91f7028" width="400" >  |   <br/>> Color box（彩色方块）  <div align="center"><img src="https://github.com/user-attachments/assets/bbf6b98e-96f9-4849-b386-4ad63dc307c9" width="200">
 |<br/>>Single-Stream Extractor Network With Contrastive Pre-Training for Remote-Sensing Change Captioning <div align="center"><img src="https://github.com/user-attachments/assets/d5945574-8f67-46aa-bac9-374ec10446d2" width="400" >  |  
+|<br/>>Diffusion-RSCC: Diffusion Probabilistic Model for Change Captioning in Remote Sensing Images <div align="center"><img src="https://github.com/user-attachments/assets/6d5e5552-025e-4697-acf2-e17a1fce4221" width="400" >  |   <br/>> 立方体阴影、平面堆叠正方形  <div align="center"><img src="https://github.com/user-attachments/assets/ce057839-73b6-47bf-a766-d695f485dfe3" width="200">
+|<br/>>CaLa: Complementary Association Learning for Augmenting Composed Image Retrieval <div align="center"><img src="https://github.com/user-attachments/assets/b374af16-a4bb-4f07-b5cc-746dd9176a53" width="400" >  |   <br/>> [islide（PPT插件）](https://zhuanlan.zhihu.com/p/36619129)  <div align="center"><img src="https://github.com/user-attachments/assets/b2ec89d8-59d4-4a97-a650-0b2ff6e47292" width="200">
+|<br/>>Cross-Modal Bidirectional Interaction Model for Referring Remote Sensing Image Segmentation <div align="center"><img src="https://github.com/user-attachments/assets/1bd77214-be26-4acf-bc1d-41b755f73b62" width="400" >  |   <br/>> 均匀分布、堆叠矩形  <div align="center"><img src="https://github.com/user-attachments/assets/1b1e0a7d-5c8e-4511-9cf7-d308c145a8cb" width="200">
+
